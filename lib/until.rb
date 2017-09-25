@@ -6,4 +6,3 @@ def using_until
           counter += 1
         end
 end
-
